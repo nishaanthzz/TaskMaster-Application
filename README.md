@@ -24,7 +24,7 @@ Feautres of the Project:
   Mark Completed Tasks
   Access Previous tasks whenever need
   Readable UI
-  Storage through Firbase Cloud
+  Storage through Firebase Cloud
  
 
 Thank You for Checking out my project!
